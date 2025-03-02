@@ -24,7 +24,7 @@ I am working on development of a full stack websites involving Machine Learning 
 
 ### Things I did previously
 
-Previously I worked on few backend technologies like Django, Express.
+Previously I worked on few backend technologies like Django, Express. Also frontend technologies like Angular.
 
 ### Things that intrests me
 
