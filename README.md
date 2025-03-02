@@ -1,18 +1,21 @@
-### Hi there, this is Chandra Sekhar!!👋
+### Hi there, I'm Chandra Sekhar! 👋
 
 <!-- 
 **vcsreddy2004/vcsreddy2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
+### About Me
+I’m a Computer Science Undergrad specializing in Artificial Intelligence and Machine Learning at Acharya Nagarjuna University (3rd year). I love coding, experimenting with new technologies, and building things from scratch! 😃
 
 - 🔭 I’m currently working on Backend Development and Machine Learning Projects.
 - 🌱 I’m currently learning a ReactJS, a front end frame-work
 - 👯 Happy to collaborate on projects related to Full Stack development and Machine Learning
 - 📫 Reach out to me at vcsreddy2004@gmail.com.
 
-### About Me
-
-I am a Computer Science Undergrad with Artificial Intelligence and Machine Learning as a specialization, Acharya Nagarjuna University.Currently pursuing 3rd year! I love to code and am currently experimenting things 😅
+### Tech Stack
+- 💻 Full Stack Development: Django, Express, React, Angular
+- 📊 Machine Learning: TensorFlow, Scikit-learn, Pandas
+- ⚡ Other Tools: Git, SQL, Firebase
 
 ### Things I do
 
@@ -24,7 +27,7 @@ I am working on development of a full stack websites involving Machine Learning 
 
 ### Things I did previously
 
-Previously I worked on few backend technologies like Django, Express. Also frontend technologies like Angular.
+Previously I worked on few backend technologies like Express and Also frontend technologies like React.
 
 ### Things that intrests me
 
