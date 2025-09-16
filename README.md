@@ -21,11 +21,7 @@ I’m a Computer Science Undergrad specializing in Artificial Intelligence and M
 ---
 
 ### 🚀 Live Projects
-- 🧢 [**Stromwear**](https://www.stromwear.in) – A fashion e-commerce site  
-  - Built using **Next.js, Express.js, Tailwind CSS**  
-  - Hosted on **VPS (Hostinger)**
-
-- 🧢 [**Incova**](https://www.incova.in) – A fashion e-commerce site    
+- 🧢 [**Gerado**](https://www.thegerado.com) – A fashion e-commerce site    
   - Built using **Next.js, Express.js, Tailwind CSS**  
   - Hosted on **AWS EC2**
 
