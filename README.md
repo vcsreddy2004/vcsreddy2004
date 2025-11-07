@@ -1,6 +1,6 @@
 ### Hi there, I'm Chandra Sekhar! 👋
 
-I’m a Computer Science Undergrad specializing in Artificial Intelligence and Machine Learning at **Acharya Nagarjuna University (3rd year)**. I love coding, experimenting with new technologies, and building things from scratch! 🚀
+I’m a Computer Science Undergrad at **Acharya Nagarjuna University**. I love coding, experimenting with new technologies, and building things from scratch! 🚀
 
 ---
 
