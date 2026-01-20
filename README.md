@@ -1,48 +1,80 @@
-### Hi there, I'm Chandra Sekhar! 👋
+# 👋 Hi, I’m Chandra Sekhar  
+🚀 Computer Science Graduate | Full-Stack & Machine Learning Enthusiast  
 
-I’m a Computer Science Undergrad at **Acharya Nagarjuna University**. I love coding, experimenting with new technologies, and building things from scratch! 🚀
-
----
-
-### 🌟 About Me
-- 🔭 Currently working on **Backend Development** and **Machine Learning Projects**
-- 🌱 Learning **React.js**, a powerful front-end framework
-- 👯 Open to collaborate on **Full Stack** and **ML** projects
-- 📫 Reach me at **vcsreddy2004@gmail.com**
+I’m a Computer Science Graduate at **Acharya Nagarjuna University** who loves building **real-world, production-ready applications**. I enjoy working across the stack and integrating **Machine Learning** into practical web products.
 
 ---
 
-### 🧠 Tech Stack
-- 💻 **Full Stack Development**: Next.js, Express.js, Django, Angular, React
-- 🧠 **Machine Learning**: TensorFlow, Scikit-learn, Pandas
-- 🎨 **Styling & UI**: Tailwind CSS, Bootstrap
-- 🛠️ **Other Tools**: Git, SQL, Firebase, MongoDB
+## 🚀 What I Do
+- 🔧 Build scalable **full-stack web applications**
+- 🧠 Integrate **Machine Learning features** into web platforms
+- ⚡ Focus on performance, clean architecture, and real users
+- 🌱 Currently strengthening my **React.js** skills
 
 ---
 
-### 🚀 Live Projects
-- 🧢 [**Gerado**](https://www.thegerado.com) – A fashion e-commerce site    
-  - Built using **Next.js, Express.js, Tailwind CSS**  
-  - Hosted on **AWS EC2**
+## 🧠 Tech Stack
+
+### 💻 Full Stack
+- Next.js • Express.js • Django • React • Angular  
+
+### 🧠 Machine Learning
+- TensorFlow • Scikit-learn • Pandas  
+
+### 🗄️ Databases & Cloud
+- MongoDB • SQL • Firebase • AWS EC2  
+
+### 🎨 UI & Tools
+- Tailwind CSS • Bootstrap • Git  
 
 ---
 
-### 🧪 What I'm Working On
-I’m currently developing full-stack applications that integrate **Machine Learning features**, aiming to blend intelligence into real-world web applications.
+## 🌍 Live Projects (Production)
+
+### 🧢 **Gerado — Fashion E-Commerce Platform**
+🔗 https://www.thegerado.com  
+
+- Built using **Next.js + Express.js**
+- Styled with **Tailwind CSS**
+- Hosted on **AWS EC2**
+- Designed for real users and real transactions
 
 ---
 
-### 🔙 Previously...
-- Built and deployed several backend APIs using **Express.js**
-- Developed frontend features using **React.js** and **Angular**
-- Applied ML models in standalone projects using **Python + TensorFlow**
+### ✈️ **Vibrant Flight — Clothing E-Commerce Website**
+🔗 https://vibrantflight.in  
+
+- Full-stack e-commerce platform built from scratch  
+- **Frontend:** Next.js, Tailwind CSS  
+- **Backend:** Express.js, Node.js  
+- **Cloud:** Deployed on AWS EC2  
 
 ---
 
-### 💡 Interests
-#Coding #WebDev #MachineLearning #StartupIdeas #CreativeTech #Productivity
+## 🧪 Currently Working On
+I’m building **full-stack applications enhanced with Machine Learning**, focusing on:
+- Intelligent data processing
+- Smart automation
+- Scalable backend systems
+
+My goal is to blend **AI + Web Engineering** into meaningful real-world products.
 
 ---
 
-### 🤝 Connect with Me
-<a href="https://www.linkedin.com/in/venna-chandra-sekhar-reddy-7251b9330/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width="40" height="40" title="LinkedIn" /></a>
+## 🧩 Previous Work
+- Built and deployed multiple **REST APIs** using Express.js
+- Developed interactive frontend features using **React & Angular**
+- Implemented ML models using **Python + TensorFlow**
+- Hands-on experience owning projects end-to-end
+
+---
+
+## 💡 Interests
+`#FullStackDevelopment` `#MachineLearning` `#Startups`  
+`#ProductEngineering` `#SystemDesign` `#BuildingFromScratch`
+
+---
+
+## 📫 Connect With Me
+📧 Email: **vcsreddy2004@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/venna-chandra-sekhar-reddy-7251b9330/
