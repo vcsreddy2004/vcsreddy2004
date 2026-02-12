@@ -1,80 +1,72 @@
-# 👋 Hi, I’m Chandra Sekhar  
-🚀 Computer Science Graduate | Full-Stack & Machine Learning Enthusiast  
-
-I’m a Computer Science Graduate at **Acharya Nagarjuna University** who loves building **real-world, production-ready applications**. I enjoy working across the stack and integrating **Machine Learning** into practical web products.
+<h1 align="center">Hi 👋, I'm Chandra Sekhar</h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack Developer | Next.js Enthusiast</h3>
 
 ---
 
-## 🚀 What I Do
-- 🔧 Build scalable **full-stack web applications**
-- 🧠 Integrate **Machine Learning features** into web platforms
-- ⚡ Focus on performance, clean architecture, and real users
-- 🌱 Currently strengthening my **React.js** skills
+## 👨‍💻 About Me
+- 🎓 Passionate Full-Stack Developer building scalable web applications  
+- 🌱 Currently learning **Next.js, Tailwind CSS & Advanced MERN Stack**  
+- 💡 Strong interest in performance optimization & clean architecture  
+- 📚 Exploring backend scaling & cloud concepts  
+- ⚡ Fun fact: I compose music beats while coding 🎧  
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Full Stack
-- Next.js • Express.js • Django • React • Angular  
+### 🚀 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-### 🧠 Machine Learning
-- TensorFlow • Scikit-learn • Pandas  
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-### 🗄️ Databases & Cloud
-- MongoDB • SQL • Firebase • AWS EC2  
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-### 🎨 UI & Tools
-- Tailwind CSS • Bootstrap • Git  
-
----
-
-## 🌍 Live Projects (Production)
-
-### 🧢 **Gerado — Fashion E-Commerce Platform**
-🔗 https://www.thegerado.com  
-
-- Built using **Next.js + Express.js**
-- Styled with **Tailwind CSS**
-- Hosted on **AWS EC2**
-- Designed for real users and real transactions
-
----
-
-### ✈️ **Vibrant Flight — Clothing E-Commerce Website**
-🔗 https://vibrantflight.in  
-
-- Full-stack e-commerce platform built from scratch  
-- **Frontend:** Next.js, Tailwind CSS  
-- **Backend:** Express.js, Node.js  
-- **Cloud:** Deployed on AWS EC2  
+### 🛠️ Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 🧪 Currently Working On
-I’m building **full-stack applications enhanced with Machine Learning**, focusing on:
-- Intelligent data processing
-- Smart automation
-- Scalable backend systems
+## 📂 Highlight Projects
 
-My goal is to blend **AI + Web Engineering** into meaningful real-world products.
+| Project | Description |
+|----------|-------------|
+| **Gerado Fashionhood** | Modern full-stack fashion e-commerce platform built with MERN stack featuring product catalog, category filtering, cart system, secure checkout flow, admin product management, and responsive UI optimized for performance. |
+| **VibrantFlight** | Full-stack clothing e-commerce application focused on backend performance optimization. Improved database query latency by 40% through indexing, query restructuring, and efficient schema design, enhancing overall user experience and page load speed. |
+---
+
+## 📬 Connect With Me
+
+📧 **vcsreddy2004@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/vennachandrasekhar/)
 
 ---
 
-## 🧩 Previous Work
-- Built and deployed multiple **REST APIs** using Express.js
-- Developed interactive frontend features using **React & Angular**
-- Implemented ML models using **Python + TensorFlow**
-- Hands-on experience owning projects end-to-end
+## 🎯 2026 Goals
+- ✅ Master Next.js + Tailwind + Scalable Backend Architecture  
+- ✅ Contribute to open-source  
+- ✅ Build production-ready SaaS applications  
+- ✅ Secure a full-stack developer role  
 
 ---
 
-## 💡 Interests
-`#FullStackDevelopment` `#MachineLearning` `#Startups`  
-`#ProductEngineering` `#SystemDesign` `#BuildingFromScratch`
-
----
-
-## 📫 Connect With Me
-📧 Email: **vcsreddy2004@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/venna-chandra-sekhar-reddy-7251b9330/
+⭐️ From [ChandraSekhar]([https://github.com/VamsiPadala](https://github.com/vcsreddy2004))
