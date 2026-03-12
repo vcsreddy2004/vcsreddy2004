@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 Passionate Full-Stack Developer building scalable web applications  
-- 🌱 Currently learning **Next.js, Tailwind CSS & Advanced MERN Stack**  
+- 🌱 Currently working with **Next.js, Tailwind CSS & Advanced MERN Stack**  
 - 💡 Strong interest in performance optimization & clean architecture  
 - 📚 Exploring backend scaling & cloud concepts  
 - ⚡ Fun fact: I compose music beats while coding 🎧  
